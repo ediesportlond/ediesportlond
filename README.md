@@ -13,7 +13,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Florida.
 
 - 🔭 I'm working as a Full Stack Software Engineer with Strategio, Basilisk and Camlann games and contributing to frontend and backend.
-- ⚡ In my free time I try to train brazilian jiu jitsu, and laugh and be apart of some sort of charitable event. 
+- ⚡ In my free time I try to train brazilian jiu jitsu, and laugh and be apart of some sort of tech event. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eddie_Espinosa-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/eddie-espinosa-15038a5a) or espinosa.edilson@gmail.com
 </br>
 ---
