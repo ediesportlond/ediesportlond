@@ -12,9 +12,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Florida.
 
-- 🔭 I'm working as a Full Stack Software Engineer with Strategio, Basilisk and Camlann games and contributing to frontend and backend.
-- ⚡ In my free time I try to train brazilian jiu jitsu, and laugh and be apart of some sort of tech event. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eddie_Espinosa-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/eddie-espinosa-15038a5a) or espinosa.edilson@gmail.com
+- 🔭 I'm working as a Full Stack Software Engineer with Basilisk and Camlann Games.
+- ⚡ In my free time I try to train brazilian jiu jitsu, and I'm always part of some sort of tech event. 
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eddie_Espinosa-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/eddie-espinosa) or espinosa.edilson@gmail.com
 </br>
 ---
 
@@ -45,10 +45,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ediesportlond&layout=compact&theme=vision-friendly-dark)](https://github.com/CorwinHiatt/github-readme-stats)
  1
 ---
-
-### ✍️ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-- https://medium.com/@espinosa.edilson/solving-a-sudoku-puzzle-with-javascript-using-hash-maps-and-recursions-cdc5b12e10ce
-- https://medium.com/@espinosa.edilson/explaining-multithreading-in-java-in-simplest-terms-8989a1b93b60
 
 <!--
 **ediesportlond/ediesportlond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
